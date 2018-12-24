@@ -25,7 +25,7 @@ SECRET_KEY = 'kc0&mdsy=f#z)%xcr7ogcaz^7rf15skhi-brwdz=ietf(vng(s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
